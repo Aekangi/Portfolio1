@@ -32,7 +32,7 @@ function aboutMe() {
           </div>
           <div>
             <a
-              href="/images/AekangiPatel_Resume.pdf"
+              href="/images/Aekangi_Patel_Resume.pdf"
               download="AekangiPatel-resume"
             >
               Download Resume
