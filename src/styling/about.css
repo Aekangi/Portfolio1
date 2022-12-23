@@ -1,0 +1,20 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  width: 900px;
+  margin-left: 20%;
+  margin-top: 50px;
+  font-size: 25px;
+  background-color: rgba(207, 179, 207, 0.747);
+  box-shadow: 20px 20px 50px rgb(173, 152, 152);
+  margin-bottom: 20px;
+}
+
+.aboutPage {
+  background-color: rgb(223, 200, 223);
+  height: 94vh;
+}
+
+.about p {
+  font-size: 30px;
+}
