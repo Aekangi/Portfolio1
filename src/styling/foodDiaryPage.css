@@ -21,9 +21,9 @@
   flex-basis: 100%;
 }
 
-/* .FoodDescription {
-  margin-left: 20px;
-} */
+.FoodDescription {
+  margin-left: 50px;
+}
 
 .FoodDescription h2 {
   font-size: 30px;
